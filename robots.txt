@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://waifiephiw.szymonnastaly.com/sitemap.xml
